@@ -1,0 +1,19 @@
+{
+  "name": "crowdvote",
+  "version": "1.0.0",
+  "description": "Repo for the CrowdVote code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PleebTeam/CrowdVote.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PleebTeam/CrowdVote/issues"
+  },
+  "homepage": "https://github.com/PleebTeam/CrowdVote#readme"
+}
